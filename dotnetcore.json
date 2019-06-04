@@ -20,7 +20,7 @@
         "version": "2.0",
         "baseImageName": "oryxprod/dotnetcore-2.0:20190516.1",
         "templateRepoURL": "https://github.com/Azure-App-Service/dotnetcore-template.git",
-        "templateRepoBranchName": "devd",
+        "templateRepoBranchName": "dev",
         "outputImageName": "dotnetcore:2.0"
     },
     {
@@ -28,7 +28,7 @@
         "version": "1.1",
         "baseImageName": "oryxprod/dotnetcore-1.1:20190516.1",
         "templateRepoURL": "https://github.com/Azure-App-Service/dotnetcore-template.git",
-        "templateRepoBranchName": "ev",
+        "templateRepoBranchName": "dev",
         "outputImageName": "dotnetcore:1.1"
     },
     {
